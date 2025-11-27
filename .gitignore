@@ -10,3 +10,6 @@
 
 # Leave target directory
 */target/*
+
+# Python virtual environment
+venv/
